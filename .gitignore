@@ -1,1 +1,3 @@
 /node_modules
+#using type module in package.json to use import instead of requires
+.env
